@@ -1,0 +1,8 @@
+{
+  "name": "mywall-visualizer",
+  "version": "1.0.0",
+  "description": "Mywall – Visualizador de paneles acústicos con IA",
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
